@@ -1,21 +1,23 @@
-# travel
+# ComeHere
 
-> A Vue.js project
+模仿某知名旅游网的页面，仅供学习。
 
-## Build Setup
+ 
+# 首页
 
-``` bash
-# install dependencies
-npm install
+![image](https://raw.githubusercontent.com/lihao97/qunar/master/README_IMG/1.png)
 
-# serve with hot reload at localhost:8080
-npm run dev
+# 地址页
 
-# build for production with minification
-npm run build
+![image](https://raw.githubusercontent.com/lihao97/qunar/master/README_IMG/2.png)
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+# 详情页
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![image](https://raw.githubusercontent.com/lihao97/qunar/master/README_IMG/3.png)
+
+# 详情页图片展示
+
+![image](https://raw.githubusercontent.com/lihao97/qunar/master/README_IMG/4.png)
+
+
+
